@@ -1,0 +1,1655 @@
+{
+  ". pastry shell": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  ".baked pastry shell": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "7 up": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_6d896093-2d6c-4294-9f5d-5e8da1095ecf.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "a.1. sauce": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_a_1_sauce_322a289d9675.png",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "a.1. steak sauce": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_a_1_steak_sauce_ccefc0d3f37a.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "abalone steak": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "absinthe": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_absinthe_5c4acb36bcae.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "absolut citron vodka": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "absolut kurant vodka": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "absolut mandarin vodka": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "absolut vodka": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_absolut_vodka_2db23b897582.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "aburage": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_aburage_82e5761e5b27.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "accent seasoning": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "aceto balsamico": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_aceto_balsamico_c9fb932684c7.png",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "achar": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_achar_2eabc3ce1cee.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "achiote": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_achiote_265b9f0a212f.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "achiote oil": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "achiote paste": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_achiote_paste_db3ad2561448.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "achiote paste cubes": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "achiote powder": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_achiote_powder_52aa2d67d1c8.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "achiote seeds": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_achiote_seeds_2313c82dc7fa.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "achute water": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "acid blend": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "acini di pepe pasta": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "ackee": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_ackee_f12204deadbe.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "acorn": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_acorn_84f0ceca5ebe.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "acorn meal": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "acorn squash": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_acorn_squash_6e2a29b646ae.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "acorns": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_acorns_c98d30e5a630.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "active starter": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_active_starter_8b83c9fbb4e7.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "active yeast": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_active_yeast_b0afda30ee0c.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "adobo sauce": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "adobo seasoning": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "adolph's meat tenderizer": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_adolph_s_meat_tenderizer_71a1825e3305.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "advieh e polo": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "advocaat": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_advocaat_8e8f99bcd12c.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "adzuki beans": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_adzuki_beans_effc3ca63d14.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "african bird pepper": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_african_bird_pepper_5ff74d353470.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "after dinner mints": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_after_dinner_mints_3569d468e28c.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "agar": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_agar_9bae7cab338d.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "agar agar": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_agar_agar_a54f0b684145.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "agar agar flakes": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "agave": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_agave_95fb1fa9a88b.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "agave nectar": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "agave syrup": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_agave_syrup_2de960791b88.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "aged cheddar cheese": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_aged_cheddar_cheese_e04625188d1c.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "aged white cheddar cheese": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_aged_white_cheddar_cheese_e84210ccd4f8.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "aguardiente": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_aguardiente_c4c8ef8f9ef5.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "agwa cocoa herbal liqueur": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "ahi": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_ahi_c36dbb01b9f2.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "ahi fillets": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_ahi_fillets_6704f67f51ef.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "ahi tuna steaks": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_ahi_tuna_steaks_634fee6d3ac2.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "ahmed brand vermicelli": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "aioli": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_aioli_8252fa50cc93.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "aji bell pepper": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_aji_bell_pepper_7297f5386715.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "aji no moto": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_aji_no_moto_d1a8d146bc69.png",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "aji panca chile": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "aji panca chilies": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "aji yellow paste": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "ajies dulces": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "ajinomoto": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_ajinomoto_635752418a20.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "ajmoh seeds": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_ajmoh_seeds_fdd9170bae9b.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "ajvar": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "ajwain": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "ajwain seed": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "albacore tuna": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_albacore_tuna_fb47588f9056.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "albacore tuna in water": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_albacore_tuna_in_water_28b1843eb42a.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "alcaparrado": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "alcohol": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_alcohol_c7c7eb1087c4.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "ale": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_ale_5c85bb36f386.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "ale soft drink": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "aleppo pepper": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_aleppo_pepper_c58eaeb1a7fc.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "alfalfa": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_alfalfa_a8dc013e3338.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "alfalfa sprout": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_alfalfa_sprout_8238535a328e.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "alfalfa sprouts": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_alfalfa_sprouts_2887b8e99f88.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "alfredo noodles mix": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "alfredo sauce": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "alfredo sauce mix": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "alfredo sauce with parmesan cheese": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_alfredo_sauce_with_parmesan_cheese_02256d555c37.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "alize gold passion liqueur": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "alize red passion liqueur": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "all beef wieners": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "all bran cereal": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "all bran cereal with raisins": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "all bran fiber cereal": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "all fruit jam": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_all_fruit_jam_0f498c592028.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "all fruit preserves": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_all_fruit_preserves_1f50bf0ddd6e.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "all purpose flour": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_all_purpose_flour_8f83244771ec.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "all purpose greek seasoning": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_all_purpose_greek_seasoning_ad05b608252a.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "all purpose white flour": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_all_purpose_white_flour_2d8d9408de55.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "all purpose wine yeast": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_all_purpose_wine_yeast_8fc60f46e603.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "allegro marinade": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "alligator meat": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_alligator_meat_d1f94fa48d6d.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "alligator sausage": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "alligator tail steaks": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "allspice": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_allspice_82d68a121058.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "allspice berries": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_allspice_berries_bee84f4ee23e.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "allspice berry": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "allwhites egg whites": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_allwhites_egg_whites_11124486e47e.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "almond bark": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_almond_bark_14263a7332b1.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "almond breeze non dairy beverage": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_almond_breeze_non_dairy_beverage_564d58f2eea0.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "almond brickle chips": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "almond butter": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_almond_butter_238390a1634f.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "almond cookie": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_almond_cookie_5183f2897230.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "almond cookies": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_almond_cookies_f573705b72a8.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "almond emulsion": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_almond_emulsion_b26338ebecb2.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "almond essence": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_almond_essence_13038e4d3b1b.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "almond extract": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_almond_extract_a24e1a970e63.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "almond filling": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_almond_filling_eabde0de505f.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "almond flavored liqueur": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "almond flavoring": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_almond_flavoring_718c4be03330.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "almond flour": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_almond_flour_cb4f566ac54b.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "almond granola": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_almond_granola_1e262f672cb7.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "almond halve": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_almond_halve_a5243ce4160e.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "almond halves": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_almond_halves_03723f6b3f90.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "almond joy candy bars": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_almond_joy_candy_bars_c88bffd91c3d.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "almond liqueur": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_almond_liqueur_616a1f9a5359.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "almond meal": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "almond milk": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "almond oil": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "almond paste": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "almond powder": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "almond stuffed green olives": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_almond_stuffed_green_olives_46d36db265a5.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "almond syrup": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "almond toffee bits": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "almonds": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "aloe juice": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "aloe vera gel": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "alouette spinach artichoke spreadable cheese": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "alpha bits cereal": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "alphabet pasta": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "alphabet pasta and vegetable soup": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "alphonso mangoes": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "alpine lace cooked ham": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "alpine lace swiss cheese": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "alum": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "aluminum foil": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "amaranth": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "amaranth flour": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "amaranth grain": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "amaretti": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "amaretti cookie": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "amaretti cookie crumbs": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "amaretti cookies": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "amarettinis": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "amaretto": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "amaretto cookies": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "amaretto cream liqueur": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "amaretto di saronno liqueur": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "amaretto flavored coffee": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "amaretto flavored coffee creamer": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "amaretto flavored nondairy liquid creamer": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "amaretto liqueur": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "amaretto syrup": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "amarula cream liqueur": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "amber beer": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "amber rum": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "amchoor powder": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "amchur": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "amchur powder": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "american cheese": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "american cheese spread": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "amish batter": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "amish starter": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "ammonia": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "amul paneer": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "anaheim chili": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "anaheim chilies": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "anasazi beans": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "ancho chili": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "ancho chili puree": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "ancho chilies": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "anchovies": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_anchovies_5cb6d6c3d968.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "anchovies in oil": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_anchovies_in_oil_3e43767b826a.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "anchovy": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_anchovy_80b0c5bb679e.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "anchovy essence": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_anchovy_essence_ff7be954eade.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "anchovy fillet": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "anchovy fillets": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "anchovy in oil": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_anchovy_in_oil_e7b8710805ab.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "anchovy paste": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "anchovy stock cube": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "anchovy stuffed olives": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "andes mint baking chips": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "andes mint parfait thins": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "andes mints candies": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "andouille chicken sausage": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "andouille sausage": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "andouille sausages": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "andouille turkey sausage": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "anejo cheese": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "angel flake coconut": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "angel food cake": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_angel_food_cake_b706999a595f.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "angel food cake mix": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "angel hair pasta": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "angel hair pasta with herbs mix": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "angel hair with parmesan cheese pasta roni": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_angel_hair_with_parmesan_cheese_pasta_roni_b51fc37bf890.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "angelica": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_angelica_1f254faa04cf.jpg",
+    "source": "pexels",
+    "status": "SUCCESS"
+  },
+  "angelica leaf": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "angelica leaves": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "angostura bitters": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_angostura_bitters_02aa4f0293aa.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "angostura sodium worcestershire sauce": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "angus steaks": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "animal crackers": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_animal_crackers_66d76015d769.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "anise": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_anise_a56fc8aaf1db.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "anise extract": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "anise flavored liqueur": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "anise flavoring": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "none",
+    "status": "NO_IMAGE"
+  },
+  "baked pastry shell": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "bean mix": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "bean soup mix": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "beans": {
+    "image_url": "images/ingredients/ingredient_beans_6eb228fb5b59.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "bran": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_0b2b14b3-9806-477e-bfe5-18644f0603b6.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "bread": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_f7be5b62-20ed-46a3-ac29-00134102dda3.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "bread flour": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "broccoli cheese soup": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "buttermilk": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_31a16e6d-1536-443b-8c0d-20e94a68283d.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "cake layer": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "cake layers": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "cheddar cheese": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_8f8dc89a-3461-45e2-b554-550f71ee39f5.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "cheddar cheese blend": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "cheddar cheese soup": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "cheese gourmet cheddar blend cheese": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "chocolate cookie crumb crust": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "chocolate pie crust": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "condensed cream of celery soup": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "condensed mushroom soup": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "cooked ham": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_cooked_ham_31c739d7074e.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "corn tortilla": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "cottage cheese": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_47da053a-0751-4678-bffc-50e8a1c7f314.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "cream": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_3400eaee-b889-445f-b52d-0cc4cb6ecd10.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "cream of broccoli soup": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "cream of chicken soup": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "cream of mushroom soup": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "crumb crust": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_crumb_crust_855d75af79ef.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "deep dish pie crust": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "deep dish pie crusts": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "deep dish pie shell": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "double crust pie shell": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "evaporated milk": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "flour tortilla": {
+    "image_url": "images/ingredients/ingredient_flour_tortilla_c4fe8c624a71.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "graham cracker": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_d72c8ecc-ddc4-4a08-89f7-360843ec1302.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "graham cracker crust": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_graham_cracker_crust_128f47e73f3f.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "grain bread": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "ground beef": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_01c27488-9fef-4ff0-9b7a-ca1eff86ce9b.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "ham": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_ham_0eccfe263668.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "herb stuffing mix": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "RETRY"
+  },
+  "large curd cottage cheese": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "layers of chocolate cake": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "mexican cheese blend": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "milk": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_a60dba1c-5a1b-4a38-8285-0c91830dffbd.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "mozzarella cheese": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_fae44e43-4f04-40a1-91df-3ad1e8c53734.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "orange flavored yogurt": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "oreo cookie pie crust": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "pastry crust with lattice top": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "pastry pie shell": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "pastry shell": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "pie crust": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_d5dbdba8-562e-45b4-89c6-25be82c59ff2.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "pie crusts": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "pie pastry tart shell": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "pie shell": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "pita": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_pita_69530ff425ef.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "pizza crust": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "pizza crusts": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "rice": {
+    "image_url": "images/ingredients/ingredient_rice_209f76418ece.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "ricotta cheese": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "shaved leg ham": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "spinach tortilla": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "stuffing": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "sun dried tomato tortilla": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "table cream": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "tapioca pudding": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "tart shell": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "tortilla": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_82bb632d-a43c-494c-bb0c-a43a1ceca377.png",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "vodka": {
+    "error": "",
+    "image_url": "images/ingredients/ingredient_3cd42839-2264-4778-ae69-adbe793da84b.jpg",
+    "source": "wikimedia",
+    "status": "SUCCESS"
+  },
+  "wheat tortilla": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  },
+  "whole wheat pita": {
+    "error": "No acceptable image found.",
+    "image_url": "",
+    "source": "wikimedia",
+    "status": "NO_IMAGE"
+  }
+}

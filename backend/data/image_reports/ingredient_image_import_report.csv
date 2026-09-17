@@ -1,0 +1,21 @@
+ingredient_id,ingredient_name,visual_name,status,image_url,source,error
+4cd6babb-5b06-4b74-b338-86c8d7ce3eef,Anchovies Packed In Oil,anchovies in oil,SUCCESS,images/ingredients/ingredient_anchovies_in_oil_3e43767b826a.jpg,pexels,
+21c400f6-8534-47b7-a10f-3fa6c7ac9b0a,Anchovy Packed In Oil,anchovy in oil,SUCCESS,images/ingredients/ingredient_anchovy_in_oil_e7b8710805ab.jpg,pexels,
+a8f33a42-b4a6-4f68-9b32-c672b615cc6e,Anejo Cheese,anejo cheese,NO_IMAGE,,none,No acceptable image found.
+cd56af1e-bf0c-4cea-b459-d2cef44ee7a7,Angel Flake Coconut,angel flake coconut,NO_IMAGE,,none,No acceptable image found.
+901b07b6-ce60-4327-9ea9-0bdfcfed520e,Angel Food Cake,angel food cake,SUCCESS,images/ingredients/ingredient_angel_food_cake_b706999a595f.jpg,pexels,
+d4d199f5-bf31-4e7f-bca7-daacc7b579df,Angel Food Cake Mix,angel food cake mix,NO_IMAGE,,none,No acceptable image found.
+3c3742db-bd11-44f7-9b02-b23394ae3384,Angel Hair Pasta,angel hair pasta,NO_IMAGE,,none,No acceptable image found.
+67b826a5-cdf6-4bd0-9e84-a900521a1224,Angel Hair Pasta With Herbs Mix,angel hair pasta with herbs mix,NO_IMAGE,,none,No acceptable image found.
+2c05e8ca-3e51-4402-a0d5-55bf7e92b697,Angel Hair With Parmesan Cheese Pasta Roni,angel hair with parmesan cheese pasta roni,SUCCESS,images/ingredients/ingredient_angel_hair_with_parmesan_cheese_pasta_roni_b51fc37bf890.jpg,pexels,
+db149a8e-6b55-49f4-b719-9807181eb599,Angelica,angelica,SUCCESS,images/ingredients/ingredient_angelica_1f254faa04cf.jpg,pexels,
+79e483ee-e6b5-40a7-9138-5218195da8f7,Angelica Leaf,angelica leaf,NO_IMAGE,,none,No acceptable image found.
+c7d21902-611c-4743-982f-5c1876805957,Angelica Leaves,angelica leaves,NO_IMAGE,,none,No acceptable image found.
+77794eab-bb58-4723-a78c-87b7bbd41390,Angostura Bitters,angostura bitters,SUCCESS,images/ingredients/ingredient_angostura_bitters_02aa4f0293aa.jpg,wikimedia,
+983450ec-7339-4a86-adc9-e1b751facafa,Angostura Low-Sodium Worcestershire Sauce,angostura sodium worcestershire sauce,NO_IMAGE,,none,No acceptable image found.
+b0ae3886-64de-4f54-98d4-b71b08fb063c,Angus Steaks,angus steaks,NO_IMAGE,,none,No acceptable image found.
+372f5f3a-3b9f-4099-b8eb-66f79dfaf6c3,Animal Crackers,animal crackers,SUCCESS,images/ingredients/ingredient_animal_crackers_66d76015d769.jpg,wikimedia,
+e95b4b0b-17fa-4631-be47-75853f040691,Anise,anise,SUCCESS,images/ingredients/ingredient_anise_a56fc8aaf1db.jpg,wikimedia,
+280fe047-4e98-4aed-84bd-59215cae70ed,Anise-Flavored Liqueur,anise flavored liqueur,NO_IMAGE,,none,No acceptable image found.
+4f3a5842-fbf9-451a-9610-ac158a8c06f3,Anise Extract,anise extract,NO_IMAGE,,none,No acceptable image found.
+f8179d4d-8741-4d84-ba5e-5737d6c7bdcc,Anise Flavoring,anise flavoring,NO_IMAGE,,none,No acceptable image found.

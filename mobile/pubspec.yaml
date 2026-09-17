@@ -1,0 +1,63 @@
+name: mobile
+
+description: RasaBavarchi - AI Recipe Generator, Smart Meal Planner & Nutrition Coach
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.12.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # State Management
+  flutter_riverpod: ^2.6.1
+
+  # Navigation
+  go_router: ^16.2.0
+
+  # Networking
+  dio: ^5.9.0
+
+  # Secure Storage
+  flutter_secure_storage: ^9.2.4
+
+  # Serialization
+  freezed_annotation: ^3.1.0
+  json_annotation: ^4.9.0
+
+  # Image / Camera
+  image_picker: ^1.2.0
+
+  # UI
+  google_fonts: ^6.3.1
+  flutter_animate: ^4.5.2
+  lottie: ^3.3.2
+  fl_chart: ^1.1.1
+
+  # Video
+  video_player: ^2.14.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+  build_runner: ^2.7.1
+  freezed: ^3.2.3
+  json_serializable: ^6.11.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/rasabavarchi_logo.png
+    - assets/images/food_watermark_background.png
+    - assets/images/recipe_visuals/
+
+

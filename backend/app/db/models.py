@@ -1,0 +1,41 @@
+# Import all models so SQLAlchemy registers them
+
+from app.models import (
+    Category,
+    Cuisine,
+    Difficulty,
+    Favorite,
+    Ingredient,
+    IngredientCategory,
+    Meal,
+    MealPlan,
+    Pantry,
+    PantryItem,
+    Recipe,
+    RecipeIngredient,
+    Review,
+    Unit,
+    User,
+    WeightLossProfile,
+    EmailOTP,
+)
+
+__all__ = [
+    "Category",
+    "Cuisine",
+    "Difficulty",
+    "Favorite",
+    "Ingredient",
+    "IngredientCategory",
+    "Meal",
+    "MealPlan",
+    "Pantry",
+    "PantryItem",
+    "Recipe",
+    "RecipeIngredient",
+    "Review",
+    "Unit",
+    "User",
+    "WeightLossProfile",
+    "EmailOTP",
+]
