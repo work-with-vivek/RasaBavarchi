@@ -1,16 +1,20 @@
+import secrets
+
 from sqlalchemy import select
 
 from app.db.session import SessionLocal
-
-from app.models.unit import Unit
 from app.models.category import Category
 from app.models.cuisine import Cuisine
 from app.models.difficulty import Difficulty
 from app.models.ingredient import Ingredient
 from app.models.ingredient_category import IngredientCategory
+from app.models.unit import Unit
+from app.models.user import User
+from app.utils.security import hash_password
 
 
 db = SessionLocal()
+
 
 def get_or_create(model, **kwargs):
     obj = db.scalar(select(model).filter_by(**kwargs))
@@ -19,149 +23,112 @@ def get_or_create(model, **kwargs):
         return obj
 
     obj = model(**kwargs)
-
     db.add(obj)
     db.commit()
     db.refresh(obj)
 
     return obj
 
-print("Seeding Units...")
 
-units = [
-    ("Piece", "pcs"),
-    ("Gram", "g"),
-    ("Kilogram", "kg"),
-    ("Milliliter", "ml"),
-    ("Liter", "l"),
-]
+try:
+    print("Seeding recipe categories...")
 
-for name, symbol in units:
-    get_or_create(
-        Unit,
-        name=name,
-        symbol=symbol,
+    for name in [
+        "Breakfast",
+        "Lunch",
+        "Dinner",
+        "Snack",
+        "Dessert",
+    ]:
+        get_or_create(Category, name=name)
+
+    print("Seeding cuisines...")
+
+    for name in [
+        "Indian",
+        "Chinese",
+        "Italian",
+        "Mexican",
+    ]:
+        get_or_create(Cuisine, name=name)
+
+    print("Seeding difficulties...")
+
+    for name in [
+        "Easy",
+        "Medium",
+        "Hard",
+    ]:
+        get_or_create(Difficulty, name=name)
+
+    print("Seeding ingredient categories...")
+
+    for name in [
+        "Vegetables",
+        "Fruits",
+        "Dairy",
+        "Meat",
+        "Grains",
+        "Spices",
+        "Legumes",
+        "Nuts",
+        "Other",
+        "Seafood",
+    ]:
+        get_or_create(
+            IngredientCategory,
+            name=name,
+        )
+
+    print("Seeding units...")
+
+    units = [
+        ("Cup", "cup"),
+        ("Gram", "g"),
+        ("Kilogram", "kg"),
+        ("Liter", "L"),
+        ("Milliliter", "ml"),
+        ("Piece", "pc"),
+        ("Pinch", "pinch"),
+        ("Tablespoon", "tbsp"),
+        ("Teaspoon", "tsp"),
+        ("Unknown", "unk"),
+    ]
+
+    for name, symbol in units:
+        get_or_create(
+            Unit,
+            name=name,
+            symbol=symbol,
+        )
+
+    print("Seeding system user...")
+
+    system_user = db.scalar(
+        select(User).where(
+            User.email == "recipes@rasabavarchi.com"
+        )
     )
 
-    print("Seeding Recipe Categories...")
+    if system_user is None:
+        system_password = secrets.token_urlsafe(32)
 
-for name in [
-    "Breakfast",
-    "Lunch",
-    "Dinner",
-    "Snack",
-    "Dessert",
-]:
-    get_or_create(
-        Category,
-        name=name,
-    )
+        system_user = User(
+            email="recipes@rasabavarchi.com",
+            username="recipe_importer",
+            hashed_password=hash_password(system_password),
+            is_active=True,
+            is_verified=True,
+        )
 
-    print("Seeding Cuisines...")
+        db.add(system_user)
+        db.commit()
 
-for name in [
-    "Indian",
-    "Chinese",
-    "Italian",
-    "Mexican",
-]:
-    get_or_create(
-        Cuisine,
-        name=name,
-    )
+        print("System user created.")
+    else:
+        print("System user already exists.")
 
-    print("Seeding Difficulties...")
+    print("Database seeded successfully!")
 
-for name in [
-    "Easy",
-    "Medium",
-    "Hard",
-]:
-    get_or_create(
-        Difficulty,
-        name=name,
-    )
-
-    print("Seeding Ingredient Categories...")
-
-ingredient_categories = {}
-
-for name in [
-    "Vegetables",
-    "Fruits",
-    "Dairy",
-    "Meat",
-    "Grains",
-    "Spices",
-]:
-    ingredient_categories[name] = get_or_create(
-        IngredientCategory,
-        name=name,
-    )
-
-    print("Seeding Ingredients...")
-
-ingredients = [
-    # Vegetables
-    ("Onion", "Vegetables"),
-    ("Tomato", "Vegetables"),
-    ("Potato", "Vegetables"),
-    ("Garlic", "Vegetables"),
-    ("Ginger", "Vegetables"),
-    ("Green Chili", "Vegetables"),
-    ("Carrot", "Vegetables"),
-    ("Cabbage", "Vegetables"),
-    ("Cauliflower", "Vegetables"),
-    ("Capsicum", "Vegetables"),
-    ("Spinach", "Vegetables"),
-    ("Peas", "Vegetables"),
-    ("Beans", "Vegetables"),
-    ("Cucumber", "Vegetables"),
-
-    # Fruits
-    ("Apple", "Fruits"),
-    ("Banana", "Fruits"),
-    ("Mango", "Fruits"),
-    ("Orange", "Fruits"),
-    ("Lemon", "Fruits"),
-
-    # Dairy
-    ("Milk", "Dairy"),
-    ("Butter", "Dairy"),
-    ("Paneer", "Dairy"),
-    ("Cheese", "Dairy"),
-    ("Curd", "Dairy"),
-
-    # Meat
-    ("Chicken", "Meat"),
-    ("Egg", "Meat"),
-    ("Fish", "Meat"),
-    ("Mutton", "Meat"),
-
-    # Grains
-    ("Rice", "Grains"),
-    ("Wheat Flour", "Grains"),
-    ("Maida", "Grains"),
-    ("Poha", "Grains"),
-    ("Oats", "Grains"),
-
-    # Spices
-    ("Salt", "Spices"),
-    ("Sugar", "Spices"),
-    ("Turmeric Powder", "Spices"),
-    ("Red Chili Powder", "Spices"),
-    ("Coriander Powder", "Spices"),
-    ("Cumin Seeds", "Spices"),
-    ("Black Pepper", "Spices"),
-    ("Garam Masala", "Spices"),
-    ("Oil", "Spices"),
-]
-for ingredient_name, category_name in ingredients:
-
-    get_or_create(
-        Ingredient,
-        name=ingredient_name,
-        category=ingredient_categories[category_name],
-    )
-
-print("Database seeded successfully!")
+finally:
+    db.close()
